@@ -75,7 +75,7 @@ export default {
               alt: 'CSS3 Logo'
             }
           ],
-          background: require('~/assets/img/rowdy2.jpg'),
+          background: require('~/assets/img/rowdySwiss.jpg'),
           liveURL: 'https://www.rowdybags.ch',
           githubURL: 'https://github.com/CloudMunk'
         },
@@ -110,7 +110,7 @@ export default {
           _id: 3,
           name: 'Robo Friends',
           description:
-            "Recreated Altman Brothers' home page using Nuxtjs and TailwindCSS.",
+            "React.js Project that filters through projects that are generated through an API request.",
           technologies: [
             {
               src: require('~/assets/img/react.svg'),
@@ -182,6 +182,52 @@ export default {
           background: require('~/assets/img/whencn.png'),
           liveURL: 'https://www.whencryptonews.com/',
           githubURL: 'https://github.com/CloudMunk/WhenCryptoNews'
+        },
+        {
+          _id: 6,
+          name: 'North Side Soccer League',
+          description:
+            "A little leagues football page I built during my coding bootcamp in Barcelona in the srping of 2019.",
+          technologies: [
+            {
+              src: require('~/assets/img/html5.svg'),
+              alt: 'HTML5 Logo'
+            },
+            {
+              src: require('~/assets/img/javascript.svg'),
+              alt: 'Javascript Logo'
+            },
+            {
+              src: require('~/assets/img/css3.svg'),
+              alt: 'CSS3 Logo'
+            }
+          ],
+          background: require('~/assets/img/NYSL.png'),
+          liveURL: 'https://compassionate-goodall-11cadd.netlify.app/',
+          githubURL: 'https://github.com/CloudMunk/NYSL-Ubiqum'
+        },
+        {
+          _id: 7,
+          name: 'Thank God Its Fair',
+          description:
+            "This was a practice exercise we had 4 days to solve during my coding bootcamp in Barcelona.",
+          technologies: [
+            {
+              src: require('~/assets/img/html5.svg'),
+              alt: 'HTML5 Logo'
+            },
+            {
+              src: require('~/assets/img/javascript.svg'),
+              alt: 'Javascript Logo'
+            },
+            {
+              src: require('~/assets/img/css3.svg'),
+              alt: 'CSS3 Logo'
+            }
+          ],
+          background: require('~/assets/img/TGIF.png'),
+          liveURL: 'https://zealous-fermat-8090e8.netlify.app/',
+          githubURL: 'https://github.com/CloudMunk/TGIF'
         }
       ]
     }
