@@ -128,6 +128,60 @@ export default {
           background: require('~/assets/img/RoboFriends.png'),
           liveURL: 'https://sad-kare-e79291.netlify.app/',
           githubURL: 'https://github.com/CloudMunk/robofriends'
+        },
+        {
+          _id: 4,
+          name: 'Background Generator',
+          description:
+            "A background generator I built for creating linear backgrounds for my projects.",
+          technologies: [
+            {
+              src: require('~/assets/img/html5.svg'),
+              alt: 'React Logo'
+            },
+            {
+              src: require('~/assets/img/javascript.svg'),
+              alt: 'Javascript Logo'
+            },
+            {
+              src: require('~/assets/img/css3.svg'),
+              alt: 'CSS3 Logo'
+            }
+          ],
+          background: require('~/assets/img/bgGenerator.jpg'),
+          liveURL: 'https://eloquent-pare-0bde7f.netlify.app/',
+          githubURL: 'https://github.com/CloudMunk/background-generator_1.1'
+        },
+        {
+          _id: 5,
+          name: 'When Crypto News',
+          description:
+            "Crypto Currency News Website",
+          technologies: [
+            {
+              src: require('~/assets/img/vue.svg'),
+              alt: 'Vue Logo'
+            },
+            {
+              src: require('~/assets/img/javascript.svg'),
+              alt: 'Javascript Logo'
+            },
+            {
+              src: require('~/assets/img/vuetify.svg'),
+              alt: 'Vuetify Logo'
+            },
+            {
+              src: require('~/assets/img/firebase.svg'),
+              alt: 'Firebase Logo'
+            },
+            {
+              src: require('~/assets/img/storyblok.svg'),
+              alt: 'Storyblok CMS Logo'
+            }
+          ],
+          background: require('~/assets/img/whencn.png'),
+          liveURL: 'https://www.whencryptonews.com/',
+          githubURL: 'https://github.com/CloudMunk/WhenCryptoNews'
         }
       ]
     }
