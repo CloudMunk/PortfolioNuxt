@@ -19,7 +19,7 @@
     <div class="flex justify-center items-center pt-20">
       <a
         class="mx-3 bg-gray-800 hover:bg-main-blue focus:bg-main-blue transition-colors transition-500"
-        href="https://www.linkedin.com/in/bokismoki/"
+        href="https://www.linkedin.com/in/anestis-finstad-2b263631/"
         target="_blank"
         rel="noopener"
       >
@@ -29,7 +29,7 @@
       </a>
       <a
         class="mx-3 bg-gray-800 hover:bg-main-blue focus:bg-main-blue transition-colors transition-500"
-        href="https://github.com/bokismoki"
+        href="https://github.com/CloudMunk"
         target="_blank"
         rel="noopener"
       >
@@ -39,7 +39,7 @@
       </a>
       <a
         class="mx-3 bg-gray-800 hover:bg-main-blue focus:bg-main-blue transition-colors transition-500"
-        href="https://twitter.com/BorisBosnjak6"
+        href="https://twitter.com/JSDevlife"
         target="_blank"
         rel="noopener"
       >
@@ -49,12 +49,12 @@
       </a>
       <a
         class="mx-3 bg-gray-800 hover:bg-main-blue focus:bg-main-blue transition-colors transition-500"
-        href="https://codepen.io/bokismoki99/#"
+        href="https://www.twitch.tv/cloudonemonk"
         target="_blank"
         rel="noopener"
       >
         <div class="w-10 h-10 flex lg:h-12 lg:w-12">
-          <img class="p-2" src="~/assets/img/codepen.svg" alt="Codepen Logo" />
+          <img class="p-2" src="~/assets/img/twitch-icon.svg" alt="Codepen Logo" />
         </div>
       </a>
     </div>
