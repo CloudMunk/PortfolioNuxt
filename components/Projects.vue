@@ -100,6 +100,14 @@ export default {
             {
               src: require('~/assets/img/javascript.svg'),
               alt: 'Javascript Logo'
+            },
+            {
+              src: require('~/assets/img/adsense.svg'),
+              alt: 'Google-Adsense Logo'
+            },
+            {
+              src: require('~/assets/img/analytics.svg'),
+              alt: 'Google-Analytics Logo'
             }
           ],
           background: require('~/assets/img/moe.jpg'),
