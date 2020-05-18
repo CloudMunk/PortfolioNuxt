@@ -34,8 +34,8 @@
           <div class="flex items-center justify-between">
             <a
               class="text-sm text-white font-semibold hover:text-main-blue focus:text-main-blue transition-colors transition-500"
-              href="mailto:borisbosnjak084@gmail.com"
-            >borisbosnjak084@gmail.com</a>
+              href="mailto:anestisg.f@gmail.com"
+            >anestisg.f@gmail.com</a>
             <button
               class="text-white text-xs mt-2 px-2 py-1 uppercase font-semibold border-white border-2 hover:border-main-blue hover:bg-main-blue focus:border-main-blue focus:bg-main-blue transition-colors transition-500"
               type="submit"
