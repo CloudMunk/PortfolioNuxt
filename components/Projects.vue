@@ -27,107 +27,107 @@ export default {
       projects: [
         {
           _id: 0,
-          name: 'Skullcandy',
+          name: 'ROWDY BAGS',
           description:
-            "Recreated a few of Skullcandy's pages, backend CRUD for User & Cart, explore the top quality headphones.",
+            "Built for fashion brand ROWDY Bags during Corona Pandemic 2020. Built using Shopify, RoR, CSS, Liquid HTML and Javascript.",
           technologies: [
             {
-              src: require('~/assets/img/nuxt.svg'),
-              alt: 'Nuxt Logo'
+              src: require('~/assets/img/Ruby.svg'),
+              alt: 'Ruby Logo'
             },
             {
-              src: require('~/assets/img/tailwindcss.svg'),
-              alt: 'TailwindCSS Logo'
+              src: require('~/assets/img/javascript.svg'),
+              alt: 'Javascript Logo'
             },
             {
-              src: require('~/assets/img/node.svg'),
-              alt: 'Node Logo'
+              src: require('~/assets/img/html5.svg'),
+              alt: 'HTML5 Logo'
             },
             {
-              src: require('~/assets/img/mongodb.svg'),
-              alt: 'MongoDB Logo'
+              src: require('~/assets/img/css3.svg'),
+              alt: 'CSS3 Logo'
             }
           ],
-          background: require('~/assets/img/skullcandy_bg.jpg'),
-          liveURL: 'https://skullcandy.herokuapp.com/',
-          githubURL: 'https://github.com/bokismoki/skullcandy'
+          background: require('~/assets/img/rowdy.jpeg'),
+          liveURL: 'https://www.rowdybags.com',
+          githubURL: 'https://github.com/CloudMunk'
         },
         {
           _id: 1,
-          name: 'Social App',
+          name: 'ROWDY BAGS Swiss',
           description:
-            'Facebook/Google OAuth login, backend CRUD for posts and comments, chat and track online users with Socket.io, like/dislike, follow/unfollow, in-app notifications.',
+            'Part of ROWDY Bags expansion into Europe, they also needed an eCommerce store in Swiss. Also built using Shopify, RoR, CSS, Liquid HTML and Javascript.',
           technologies: [
             {
-              src: require('~/assets/img/nuxt.svg'),
-              alt: 'Nuxt Logo'
+              src: require('~/assets/img/Ruby.svg'),
+              alt: 'Ruby Logo'
             },
             {
-              src: require('~/assets/img/tailwindcss.svg'),
-              alt: 'TailwindCSS Logo'
+              src: require('~/assets/img/javascript.svg'),
+              alt: 'Javascript Logo'
             },
             {
-              src: require('~/assets/img/node.svg'),
-              alt: 'Node Logo'
+              src: require('~/assets/img/html5.svg'),
+              alt: 'HTML5 Logo'
             },
             {
-              src: require('~/assets/img/mysql.svg'),
-              alt: 'MySQL Logo'
-            },
-            {
-              src: require('~/assets/img/socket-io.svg'),
-              alt: 'Socket.io Logo'
+              src: require('~/assets/img/css3.svg'),
+              alt: 'CSS3 Logo'
             }
           ],
-          background: require('~/assets/img/social_app_bg.png'),
-          liveURL: 'https://social-app-social.herokuapp.com/',
-          githubURL: 'https://github.com/bokismoki/SocialApp'
+          background: require('~/assets/img/rowdy2.jpg'),
+          liveURL: 'https://www.rowdybags.ch',
+          githubURL: 'https://github.com/CloudMunk'
         },
         {
           _id: 2,
-          name: '</Jobs>',
+          name: 'Mysteries of Existence',
           description:
-            "Create job offers and connect them with your company's site, your potential emloyee will easily hear about you and start applying for the job.",
+            "Passion project I live streamed and built over the Christmas Holidays of 2019, and launched in early January 2020.",
           technologies: [
             {
               src: require('~/assets/img/nuxt.svg'),
               alt: 'Nuxt Logo'
             },
             {
-              src: require('~/assets/img/tailwindcss.svg'),
-              alt: 'TailwindCSS Logo'
+              src: require('~/assets/img/vuetify.svg'),
+              alt: 'Vuetify Logo'
             },
             {
               src: require('~/assets/img/nest.svg'),
               alt: 'Node Logo'
             },
             {
-              src: require('~/assets/img/mysql.svg'),
-              alt: 'MongoDB Logo'
+              src: require('~/assets/img/javascript.svg'),
+              alt: 'Javascript Logo'
             }
           ],
-          background: require('~/assets/img/jobs_bg.png'),
-          liveURL: 'https://jobs-it.herokuapp.com/',
-          githubURL: 'https://github.com/bokismoki/Jobs'
+          background: require('~/assets/img/moe.jpg'),
+          liveURL: 'https://www.mysteriesofexistence.com',
+          githubURL: 'https://github.com/CloudMunk/Mysteries-Of-Existence'
         },
         {
           _id: 3,
-          name: 'Altman Brothers',
+          name: 'Robo Friends',
           description:
             "Recreated Altman Brothers' home page using Nuxtjs and TailwindCSS.",
           technologies: [
             {
-              src: require('~/assets/img/nuxt.svg'),
-              alt: 'Nuxt Logo'
+              src: require('~/assets/img/react.svg'),
+              alt: 'React Logo'
             },
             {
-              src: require('~/assets/img/tailwindcss.svg'),
-              alt: 'TailwindCSS Logo'
+              src: require('~/assets/img/javascript.svg'),
+              alt: 'Javascript Logo'
+            },
+            {
+              src: require('~/assets/img/css3.svg'),
+              alt: 'CSS3 Logo'
             }
           ],
-          background: require('~/assets/img/altman_brothers_bg.jpg'),
-          liveURL: 'https://altman-brothers.herokuapp.com',
-          githubURL: 'https://github.com/bokismoki/AltmanBrothers'
+          background: require('~/assets/img/RoboFriends.png'),
+          liveURL: 'https://sad-kare-e79291.netlify.app/',
+          githubURL: 'https://github.com/CloudMunk/robofriends'
         }
       ]
     }

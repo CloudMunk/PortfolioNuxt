@@ -14,7 +14,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'Bokismoki | Web Developer',
+    title: 'Anestis Finstad | Web Developer',
     htmlAttrs: {
       lang: 'en',
     },
@@ -22,7 +22,7 @@ module.exports = {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' },
-      { hid: 'og:title', name: 'og:title', content: 'Bokismoki | Web Developer - Portfolio' },
+      { hid: 'og:title', name: 'og:title', content: 'AnestisFinstad | Web Developer - Portfolio' },
       { hid: 'og:locale', name: 'og:locale', content: 'en_EU' },
       { hid: 'og:url', name: 'og:url', content: process.env.BASE_URL || 'http://localhost:3000' },
       { hid: 'og:type', name: 'og:type', content: 'website' },

@@ -61,7 +61,7 @@
           <h1 class="text-2xl font-semibold opacity-75">Who am I?</h1>
           <p
             class="w-5/6 mx-auto mt-3 opacity-75"
-          >I'm a 20 year-old Web Developer from Serbia. I have serious passion for creating web sites using the modern technologies available to us today.</p>
+          >I'm a 32 year-old Web Developer from Norway. I have serious passion for creating web sites using the modern technologies available to us today.</p>
           <a
             href="#contact"
             class="text-main-pink cursor-pointer hover:underline focus:underline"

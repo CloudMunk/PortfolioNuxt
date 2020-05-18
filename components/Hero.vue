@@ -7,14 +7,14 @@
     <div class="m-auto text-white text-center">
       <h1 class="text-2xl font-semibold sm:text-3xl lg:text-4xl xl:text-5xl">
         Welcome, I'm
-        <span class="text-main-pink">Boris Bošnjak</span>.
+        <span class="text-main-pink">Anestis Finstad</span>.
       </h1>
       <h1 class="text-lg font-semibold sm:text-xl lg:text-2xl xl:text-3xl">
         I'm
         <span class="text-main-pink">
           <span class="hidden sm:inline">
             <vue-typer
-              :text="['A WEB DEVELOPER', 'A VUE AND TAILWINDCSS ADMIRER', 'READY FOR A JOB']"
+              :text="['A WEB DEVELOPER', 'A VUE AND VUETIFY ADMIRER', 'READY FOR A JOB']"
               :pre-erase-delay="3000"
               erase-style="backspace"
               :erase-delay="100"
@@ -91,7 +91,7 @@ export default {
   @apply bg-main-blue;
   @apply absolute;
   @apply transition-all;
-  @apply transition-500;
+  @apply duration-500;
 }
 .l::before,
 .r::before {

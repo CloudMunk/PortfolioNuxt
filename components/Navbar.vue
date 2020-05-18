@@ -56,7 +56,7 @@ export default {
   @apply w-8;
   @apply my-1;
   @apply transition-all;
-  @apply transition-500;
+  @apply duration-500;
   height: 0.4rem;
 }
 .hamburger_menu .line:first-of-type {
