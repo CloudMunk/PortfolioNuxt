@@ -22,6 +22,5 @@ module.exports = {
   variants: {},
   plugins: [
     // require('tailwindcss-transitions')()
-  ],
-  purge: 'false'
+  ]
 }
