@@ -31,7 +31,8 @@ module.exports = {
       { name: 'image', property: 'og:image', content: 'https://images.pexels.com/photos/220357/pexels-photo-220357.jpeg' }
     ],
     link: [
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Raleway:400,600,900&display=swap' }
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Raleway:400,600,900&display=swap' },
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
   /*
