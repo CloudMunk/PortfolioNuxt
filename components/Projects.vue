@@ -118,7 +118,7 @@ export default {
           _id: 3,
           name: 'Robo Friends',
           description:
-            "React.js Project that filters through projects that are generated through an API request.",
+            "React.js Project that filters through Robot data that is generated through an API request.",
           technologies: [
             {
               src: require('~/assets/img/react.svg'),
