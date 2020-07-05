@@ -115,7 +115,7 @@
             />
             <img
               class="w-10 h-10 m-3 lg:w-16 lg:h-16"
-              src="~/assets/img/storyBlok.svg"
+              src="~/assets/img/storyblokLogo.svg"
               alt="Storyblok Logo"
             />
             <img 

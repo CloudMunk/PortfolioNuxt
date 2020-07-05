@@ -241,7 +241,7 @@ export default {
               alt: 'Firebase Logo'
             },
             {
-              src: require('~/assets/img/storyblok.svg'),
+              src: require('~/assets/img/storyblokLogo.svg'),
               alt: 'Storyblok CMS Logo'
             }
           ],
