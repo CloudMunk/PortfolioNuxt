@@ -75,21 +75,54 @@
               src="~/assets/img/html5.svg"
               alt="HTML5 Logo"
             />
-            <img class="w-10 h-10 m-3 lg:w-16 lg:h-16" src="~/assets/img/css3.svg" alt="CSS3 Logo" />
-            <img class="w-10 h-10 m-3 lg:w-16 lg:h-16" src="~/assets/img/scss.svg" alt="SCSS Logo" />
-            <img
-              class="w-10 h-10 m-3 lg:w-16 lg:h-16"
-              src="~/assets/img/tailwindcss.svg"
-              alt="TailwindCSS Logo"
+            <img 
+              class="w-10 h-10 m-3 lg:w-16 lg:h-16" 
+              src="~/assets/img/css3.svg" alt="CSS3 Logo" 
+            />
+            <img 
+              class="w-10 h-10 m-3 lg:w-16 lg:h-16" 
+              src="~/assets/img/scss.svg" 
+              alt="SCSS Logo" 
             />
             <img
               class="w-10 h-10 m-3 lg:w-16 lg:h-16"
               src="~/assets/img/javascript.svg"
               alt="Javascript Logo"
             />
-            <img class="w-10 h-10 m-3 lg:w-16 lg:h-16" src="~/assets/img/vue.svg" alt="Vue Logo" />
-            <img class="w-10 h-10 m-3 lg:w-16 lg:h-16" src="~/assets/img/nuxt.svg" alt="Nuxt Logo" />
-            <img class="w-10 h-10 m-3 lg:w-16 lg:h-16" src="~/assets/img/node.svg" alt="Node Logo" />
+            <img
+              class="w-10 h-10 m-3 lg:w-16 lg:h-16"
+              src="~/assets/img/react.svg"
+              alt="React Logo"
+            />
+            <img
+              class="w-10 h-10 m-3 lg:w-16 lg:h-16"
+              src="~/assets/img/reduxLogo.svg"
+              alt="Redux Logo"
+            />
+            <img 
+              class="w-10 h-10 m-3 lg:w-16 lg:h-16" 
+              src="~/assets/img/vue.svg" alt="Vue Logo" 
+            />
+            <img
+              class="w-10 h-10 m-3 lg:w-16 lg:h-16"
+              src="~/assets/img/vuex.svg"
+              alt="Vuex Logo"
+            />
+            <img 
+              class="w-10 h-10 m-3 lg:w-16 lg:h-16" 
+              src="~/assets/img/nuxt.svg" 
+              alt="Nuxt Logo" 
+            />
+            <img
+              class="w-10 h-10 m-3 lg:w-16 lg:h-16"
+              src="~/assets/img/storyBlok.svg"
+              alt="Storyblok Logo"
+            />
+            <img 
+              class="w-10 h-10 m-3 lg:w-16 lg:h-16" 
+              src="~/assets/img/node.svg" 
+              alt="Node Logo" 
+            />
             <img
               class="w-10 h-10 m-3 lg:w-16 lg:h-16"
               src="~/assets/img/express.svg"
@@ -97,8 +130,8 @@
             />
             <img
               class="w-10 h-10 m-3 lg:w-16 lg:h-16"
-              src="~/assets/img/nest.svg"
-              alt="Nest Logo"
+              src="~/assets/img/sanityLogo.svg"
+              alt="Sanity Logo"
             />
             <img
               class="w-10 h-10 m-3 lg:w-16 lg:h-16"
@@ -107,8 +140,8 @@
             />
             <img
               class="w-10 h-10 m-3 lg:w-16 lg:h-16"
-              src="~/assets/img/mysql.svg"
-              alt="MySQL Logo"
+              src="~/assets/img/firebase.svg"
+              alt="Firebase Logo"
             />
             <img
               class="w-10 h-10 m-3 lg:w-16 lg:h-16"
@@ -117,8 +150,13 @@
             />
             <img
               class="w-10 h-10 m-3 lg:w-16 lg:h-16"
-              src="~/assets/img/socket-io.svg"
-              alt="Socket.io Logo"
+              src="~/assets/img/graphqlLogo.svg"
+              alt="GraphQL Logo"
+            />
+            <img
+              class="w-10 h-10 m-3 lg:w-16 lg:h-16"
+              src="~/assets/img/apolloLogo.svg"
+              alt="Apollo Logo"
             />
             <img
               class="w-10 h-10 m-3 lg:w-16 lg:h-16"

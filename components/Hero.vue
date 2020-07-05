@@ -14,7 +14,7 @@
         <span class="text-main-pink">
           <span class="hidden sm:inline">
             <vue-typer
-              :text="['A WEB DEVELOPER', 'A VUE AND VUETIFY ADMIRER', 'READY FOR A JOB']"
+              :text="['A WEB DEVELOPER', 'A REACT & VUE ADMIRER', 'READY FOR A JOB']"
               :pre-erase-delay="3000"
               erase-style="backspace"
               :erase-delay="100"
