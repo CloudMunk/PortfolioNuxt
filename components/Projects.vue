@@ -166,7 +166,11 @@ export default {
             {
               src: require('~/assets/img/scss.svg'),
               alt: 'SASS Logo'
-            }
+            },
+            {
+              src: require('~/assets/img/firebase.svg'),
+              alt: 'Firebase Logo'
+            },
           ],
           background: require('~/assets/img/crwnclothing.png'),
           liveURL: 'https://crown-ecommerce-store.herokuapp.com/',
