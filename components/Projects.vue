@@ -250,7 +250,7 @@ export default {
             }
           ],
           background: require('~/assets/img/whencn.png'),
-          liveURL: 'https://www.whencryptonews.com/',
+          liveURL: 'https://when-crypto-news.firebaseapp.com/',
           githubURL: 'https://github.com/CloudMunk/WhenCryptoNews'
         },
         {
